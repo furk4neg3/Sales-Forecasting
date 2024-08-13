@@ -1,4 +1,5 @@
 Walmart Sales Forecasting
+
 🐈 In this notebook, I've tried to predict Walmart's upcoming sales using various data and models.
 
 🫒 Dataset has Store, Dept, Date, IsHoliday, Temperature, Fuel_Price, CPI, Unemployment and Type as extra features, and I've used all of those in my models. Additionally, I've added Year, Month and Day attributes as features to data too.
